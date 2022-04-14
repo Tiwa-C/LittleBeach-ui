@@ -25,12 +25,6 @@ const Left = styled.div`
     align-items: center;
 `;
 
-const Icon = styled.div`
-    display: flex;
-    align-items: center;
-    margin-left: 25px;
-    padding: 5px;
-`;
 const Language = styled.span`
     font-size: 18px;
     cursor: pointer;
